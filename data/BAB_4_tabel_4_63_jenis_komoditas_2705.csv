@@ -1,0 +1,4 @@
+﻿"id_prov";"id_kab";"id_komoditas";"id_kec";"prov";"kab";"kec";"jenis_produksi";"satuan_produksi";"ID";"sum_jumlah_tanaman_belum_menghasilkan";"sum_jumlah_tanaman_menghasilkan";"sum_jumlah_tanaman_tidak_menghasilkan";"sum_produksi_volume";"sum_produksi_nilai"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2705";"[5310020] LELA";"53";"5310";"5310020";"19";"2";"763888";"29";"1";"0";"1";"10"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2705";"[5310042] WAIBLAMA";"53";"5310";"5310042";"19";"2";"763808";"0";"50";"0";"22";"456"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2705";"[5310] SIKKA";"53";"5310";"5310999";"19";"2";"1527696";"29";"51";"0";"23";"466"

@@ -1,0 +1,5 @@
+﻿"id_prov";"id_kab";"id_komoditas";"id_kec";"prov";"kab";"kec";"jenis_produksi";"satuan_produksi";"ID";"sum_jumlah_tanaman_belum_menghasilkan";"sum_jumlah_tanaman_menghasilkan";"sum_jumlah_tanaman_tidak_menghasilkan";"sum_produksi_volume";"sum_produksi_nilai"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2124";"[5310012] TANA WAWO";"53";"5310";"5310012";"5";"1";"2654888";"0";"70";"0";"150";"2200"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2124";"[5310051] HEWOKLOANG";"53";"5310";"5310051";"5";"1";"2652587";"19";"24";"4";"26";"1730"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2124";"[5310071] MAGEPANDA";"53";"5310";"5310071";"5";"1";"2652647";"0";"2";"0";"3200";"1600"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2124";"[5310] SIKKA";"53";"5310";"5310999";"5";"1";"7960122";"19";"96";"4";"3376";"5530"

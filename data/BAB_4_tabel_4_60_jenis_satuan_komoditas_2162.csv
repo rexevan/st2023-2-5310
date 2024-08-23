@@ -1,0 +1,4 @@
+﻿"id_prov";"id_kab";"id_komoditas";"id_kec";"prov";"kab";"kec";"jenis_produksi";"satuan_produksi";"ID";"sum_jumlah_tanaman_belum_menghasilkan";"sum_jumlah_tanaman_menghasilkan";"sum_jumlah_tanaman_tidak_menghasilkan";"sum_produksi_volume";"sum_produksi_nilai"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2162";"[5310051] HEWOKLOANG";"53";"5310";"5310051";"5";"1";"12105188";"0";"22";"0";"32";"1260"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2162";"[5310070] NITA";"53";"5310";"5310070";"5";"1";"30262498";"10";"112";"5";"539";"5050"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2162";"[5310] SIKKA";"53";"5310";"5310999";"5";"1";"42367686";"10";"134";"5";"571";"6310"

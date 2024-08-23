@@ -1,0 +1,5 @@
+﻿"id_prov";"id_kab";"id_komoditas";"id_kec";"prov";"kab";"kec";"jenis_produksi";"satuan_produksi";"ID";"sum_jumlah_tanaman_belum_menghasilkan";"sum_jumlah_tanaman_menghasilkan";"sum_jumlah_tanaman_tidak_menghasilkan";"sum_produksi_volume";"sum_produksi_nilai"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2102";"[5310031] DORENG";"53";"5310";"5310031";"5";"1";"457354";"10";"20";"0";"182";"700"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2102";"[5310080] ALOK";"53";"5310";"5310080";"5";"1";"457235";"0";"25";"0";"70";"7000"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2102";"[5310082] ALOK TIMUR";"53";"5310";"5310082";"5";"1";"915110";"1";"6";"0";"219";"14100"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2102";"[5310] SIKKA";"53";"5310";"5310999";"5";"1";"1829699";"11";"51";"0";"471";"21800"

@@ -1,0 +1,4 @@
+﻿"id_prov";"id_kab";"id_komoditas";"id_kec";"prov";"kab";"kec";"jenis_produksi";"satuan_produksi";"ID";"sum_jumlah_tanaman_belum_menghasilkan";"sum_jumlah_tanaman_menghasilkan";"sum_jumlah_tanaman_tidak_menghasilkan";"sum_produksi_volume";"sum_produksi_nilai"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2301";"[5310062] KOTING";"53";"5310";"5310062";"5";"1";"334176";"0";"1";"0";"180";"450"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2301";"[5310081] ALOK BARAT";"53";"5310";"5310081";"5";"1";"334234";"0";"3";"0";"4";"40"
+"[53] NUSA TENGGARA TIMUR";"[5310] SIKKA";"2301";"[5310] SIKKA";"53";"5310";"5310999";"5";"1";"668410";"0";"4";"0";"184";"490"
