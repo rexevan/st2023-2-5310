@@ -1,0 +1,353 @@
+tabel;id_prov;id_kab;id_komoditas;id_kec;prov;kab;kec;n_rtup_pungut_hasil_hutan_punya_izin;n_utp_pungut_hasil_hutan_punya_izin;volume_produksi_punya_izin;nilai_produksi_punya_izin;rerata_produksi_per_komoditas_punya_izin;rerata_produksi_per_rtup_punya_izin;rerata_produksi_per_utp_punya_izin;n_rtup_pungut_hasil_hutan_tak_punya_izin;n_utp_pungut_hasil_hutan_tak_punya_izin;volume_produksi_tak_punya_izin;nilai_produksi_tak_punya_izin;rerata_produksi_per_komoditas_tak_punya_izin;rerata_produksi_per_rtup_tak_punya_izin;rerata_produksi_per_utp_tak_punya_izin;n_rtup_pungut_hasil_hutan_ada_izin_dan_tidak;n_utp_pungut_hasil_hutan_ada_izin_dan_tidak;volume_produksi_ada_izin_dan_tidak;nilai_produksi_ada_izin_dan_tidak;rerata_produksi_per_komoditas_ada_izin_dan_tidak;rerata_produksi_per_rtup_ada_izin_dan_tidak;rerata_produksi_per_utp_ada_izin_dan_tidak
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6401;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6402;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6403;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6404;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6405;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6406;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310010] PAGA;53;5310;5310010;0;0;0.00;0.00;-;-;-;1;1;3.00;0.30;100.00;300.00;300.00;1;1;3.00;0.30;100.00;300.00;300.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310040] TALIBURA;53;5310;5310040;0;0;0.00;0.00;-;-;-;3;3;2184.00;12.12;5.55;4040.00;4040.00;3;3;2184.00;12.12;5.55;4040.00;4040.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310041] WAIGETE;53;5310;5310041;0;0;0.00;0.00;-;-;-;2;2;2400.00;19.50;8.13;9750.00;9750.00;2;2;2400.00;19.50;8.13;9750.00;9750.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310051] HEWOKLOANG;53;5310;5310051;0;0;0.00;0.00;-;-;-;1;1;12.00;0.12;10.00;120.00;120.00;1;1;12.00;0.12;10.00;120.00;120.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310052] KANGAE;53;5310;5310052;0;0;0.00;0.00;-;-;-;1;1;75.00;0.38;5.00;375.00;375.00;1;1;75.00;0.38;5.00;375.00;375.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310070] NITA;53;5310;5310070;0;0;0.00;0.00;-;-;-;2;2;116.00;5.50;47.41;2750.00;2750.00;2;2;116.00;5.50;47.41;2750.00;2750.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310071] MAGEPANDA;53;5310;5310071;0;0;0.00;0.00;-;-;-;3;3;1525.00;1.60;1.05;533.33;533.33;3;3;1525.00;1.60;1.05;533.33;533.33
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6407;[5310] SIKKA;53;5310;5310999;0;0;0.00;0.00;-;-;-;13;13;6315.00;39.52;6.26;3039.62;3039.62;13;13;6315.00;39.52;6.26;3039.62;3039.62
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310010] PAGA;53;5310;5310010;0;0;0.00;0.00;-;-;-;1;1;28.00;3.36;120.00;3360.00;3360.00;1;1;28.00;3.36;120.00;3360.00;3360.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310012] TANA WAWO;53;5310;5310012;0;0;0.00;0.00;-;-;-;2;2;25.00;2.72;108.80;1360.00;1360.00;2;2;25.00;2.72;108.80;1360.00;1360.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310040] TALIBURA;53;5310;5310040;0;0;0.00;0.00;-;-;-;9;9;240.00;26.88;112.00;2986.67;2986.67;9;9;240.00;26.88;112.00;2986.67;2986.67
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310041] WAIGETE;53;5310;5310041;0;0;0.00;0.00;-;-;-;12;12;68.00;20.98;308.46;1747.92;1747.92;12;12;68.00;20.98;308.46;1747.92;1747.92
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310071] MAGEPANDA;53;5310;5310071;0;0;0.00;0.00;-;-;-;6;6;195.00;21.69;111.24;3615.33;3615.33;6;6;195.00;21.69;111.24;3615.33;3615.33
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6408;[5310] SIKKA;53;5310;5310999;0;0;0.00;0.00;-;-;-;30;30;556.00;75.63;136.02;2520.90;2520.90;30;30;556.00;75.63;136.02;2520.90;2520.90
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6409;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310081] ALOK BARAT;53;5310;5310081;0;0;0.00;0.00;-;-;-;2;2;100.00;0.47;4.70;235.00;235.00;2;2;100.00;0.47;4.70;235.00;235.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6410;[5310] SIKKA;53;5310;5310999;0;0;0.00;0.00;-;-;-;2;2;100.00;0.47;4.70;235.00;235.00;2;2;100.00;0.47;4.70;235.00;235.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6411;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6412;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6413;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6414;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310041] WAIGETE;53;5310;5310041;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310071] MAGEPANDA;53;5310;5310071;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310081] ALOK BARAT;53;5310;5310081;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6415;[5310] SIKKA;53;5310;5310999;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310010] PAGA;53;5310;5310010;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310011] MEGO;53;5310;5310011;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310012] TANA WAWO;53;5310;5310012;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310020] LELA;53;5310;5310020;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310030] BOLA;53;5310;5310030;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310031] DORENG;53;5310;5310031;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310032] MAPITARA;53;5310;5310032;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310040] TALIBURA;53;5310;5310040;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310041] WAIGETE;53;5310;5310041;0;0;0.00;0.00;-;-;-;1;1;1.00;0.60;600.00;600.00;600.00;1;1;1.00;0.60;600.00;600.00;600.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310042] WAIBLAMA;53;5310;5310042;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310050] KEWAPANTE;53;5310;5310050;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310051] HEWOKLOANG;53;5310;5310051;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310052] KANGAE;53;5310;5310052;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310061] PALUE;53;5310;5310061;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310062] KOTING;53;5310;5310062;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310063] NELLE;53;5310;5310063;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310070] NITA;53;5310;5310070;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310071] MAGEPANDA;53;5310;5310071;0;0;0.00;0.00;-;-;-;1;1;20.00;4.00;200.00;4000.00;4000.00;1;1;20.00;4.00;200.00;4000.00;4000.00
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310080] ALOK;53;5310;5310080;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310081] ALOK BARAT;53;5310;5310081;1;1;57.00;0.27;4.67;266.00;266.00;7;7;374.00;1.68;4.50;240.43;240.43;8;8;431.00;1.95;4.52;243.63;243.63
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310082] ALOK TIMUR;53;5310;5310082;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+BAB_8_tabel_8_49_komoditas;[53] NUSA TENGGARA TIMUR;[5310] SIKKA;6499;[5310] SIKKA;53;5310;5310999;1;1;57.00;0.27;4.67;266.00;266.00;9;9;395.00;6.28;15.91;698.11;698.11;10;10;452.00;6.55;14.49;654.90;654.90
